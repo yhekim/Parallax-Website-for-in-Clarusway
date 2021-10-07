@@ -3,6 +3,8 @@
 
 # Project-003 : Parallax Website 
 
+- https://yhekim.github.io/Parallax-Website-for-in-Clarusway/
+
 - https://tender-colden-4f1768.netlify.app/
 
 ## Description
